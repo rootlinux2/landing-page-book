@@ -113,8 +113,8 @@
       "path---components-donation-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-components-index-js": [
-      "component---src-pages-components-index-js-bd73cddebea50becc413.js",
-      "component---src-pages-components-index-js-bd73cddebea50becc413.js.map"
+      "component---src-pages-components-index-js-c0d8272caa6044cec6b4.js",
+      "component---src-pages-components-index-js-c0d8272caa6044cec6b4.js.map"
     ],
     "component---src-pages-components-link-js": [
       "component---src-pages-components-link-js-66b65a52ac25e36ba8f0.js",
@@ -129,8 +129,8 @@
       "component---src-pages-components-browsersupport-js-e07fbc46dfa7d4bb9a84.js.map"
     ],
     "component---src-pages-components-githubbutton-js": [
-      "component---src-pages-components-githubbutton-js-49a8ea1b3c3f6e8ce258.js",
-      "component---src-pages-components-githubbutton-js-49a8ea1b3c3f6e8ce258.js.map"
+      "component---src-pages-components-githubbutton-js-996573e01dedda9f37e9.js",
+      "component---src-pages-components-githubbutton-js-996573e01dedda9f37e9.js.map"
     ],
     "path---components-button": [
       "path---components-button-a0e39f21c11f6a62c5ab.js",
@@ -213,9 +213,9 @@
       "component---src-pages-components-location-js-b08a5e65abb046014278.js.map"
     ],
     "commons": [
-      "commons-5707791be445a3f714c2.js",
+      "commons-de3359e65b2dea73d616.js",
       "build-js-styles.css",
-      "commons-5707791be445a3f714c2.js.map",
+      "commons-de3359e65b2dea73d616.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-components-team-js": [
